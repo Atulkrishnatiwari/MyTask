@@ -45,9 +45,8 @@ It follows the CRUD (Create, Read, Update, Delete) operations for MyTask List da
 
 - **CRUD Operations:** Implements Create, Read, Update, and Delete operations for managing employee records. in this we can Add,Delete,Edit
 
-- **CoreData** Utilizes a default data storage mechanism (e.g., UserDefaults) for simplicity. And I Have used my Own Model Object For Saving Data in
-  With The Help Of UserDefaults 
-
+- **CoreData** Utilize Core Data To Save Details
+  
 - **Technology Uses:**
   - SwiftUI
   - CoreData
@@ -64,7 +63,7 @@ It follows the CRUD (Create, Read, Update, Delete) operations for MyTask List da
 
 **Installation:**
   Open the Xcode project.
-  Build and run the application on a simulator or a physical iOS device.
+  Build and run the application on a simulator or a physical IOS device.
 
 **Setup:**
   Follow on-screen instructions for initial setup.
